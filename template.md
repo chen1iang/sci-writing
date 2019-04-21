@@ -11,8 +11,11 @@
 - XXX remains an ongoing challenge due to xxx
 - Although some encouraging progress have been made, xxx still require further research.
 
+### 未知
+- However, there is still an important gap in the understanding of how xxx
+
 ### 探索、挖掘
-explore, investigate, illustrate
+explore, investigate, illustrate, examine the role of, 
 
 ### 阐释
 illustate, elucidate
